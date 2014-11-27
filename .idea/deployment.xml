@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="On explicit save action" serverName="CloudPlug" uploadOnCheckin="1d5a9929-7883-4663-9c16-67b2bef1732f">
+    <serverData>
+      <paths name="CloudPlug">
+        <serverdata>
+          <mappings>
+            <mapping deploy="Ruby Code/C2F" local="$PROJECT_DIR$" web="/Ruby Code/C2F" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myUploadOnCheckinName" value="CloudPlug" />
+    <option name="myAutoUpload" value="ON_EXPLICIT_SAVE" />
+  </component>
+</project>
